@@ -1,6 +1,4 @@
-.day-price {
+.calendar>.days-grid>.day {
 	font-size: .5rem!important;
-}
-.calendar {
     background: #000!important;
 }
